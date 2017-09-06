@@ -1,0 +1,112 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "bitmovin-player-ui",
+        "scope": null,
+        "escapedName": "bitmovin-player-ui",
+        "name": "bitmovin-player-ui",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/swati/Desktop/swati/tatasky/poc"
+    ]
+  ],
+  "_from": "bitmovin-player-ui@latest",
+  "_id": "bitmovin-player-ui@2.7.1",
+  "_inCache": true,
+  "_location": "/bitmovin-player-ui",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/bitmovin-player-ui-2.7.1.tgz_1499331350760_0.927846169564873"
+  },
+  "_npmUser": {
+    "name": "bitadmin",
+    "email": "admin@bitmovin.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "bitmovin-player-ui",
+    "scope": null,
+    "escapedName": "bitmovin-player-ui",
+    "name": "bitmovin-player-ui",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/bitmovin-player-ui/-/bitmovin-player-ui-2.7.1.tgz",
+  "_shasum": "7eeee7db3dbea91bd3e81ff486a057ab881aeaeb",
+  "_shrinkwrap": null,
+  "_spec": "bitmovin-player-ui",
+  "_where": "/home/swati/Desktop/swati/tatasky/poc",
+  "author": {
+    "name": "Bitmovin"
+  },
+  "bugs": {
+    "url": "https://github.com/bitmovin/bitmovin-player-ui/issues"
+  },
+  "dependencies": {},
+  "description": "Bitmovin Player UI Framework",
+  "devDependencies": {
+    "autoprefixer": "^6.5.2",
+    "browser-sync": "^2.17.5",
+    "browserify": "^13.1.1",
+    "cssnano": "^3.8.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-css-base64": "^1.3.4",
+    "gulp-if": "^2.0.2",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sass-lint": "^1.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.1.4",
+    "gulp-uglify": "^2.0.0",
+    "merge2": "^1.0.3",
+    "postcss-svg": "^1.0.6",
+    "run-sequence": "^1.2.2",
+    "tsify": "^2.0.2",
+    "tslint": "^5.4.3",
+    "typescript": "^2.4.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-J/uf7Ps7y9p/OTCI5Rnv5k0ElkzzNCgcjPR3n2AAjD90hj91HXSbLBKE7ComwzfwwPLXHXiuAj+zftUrscKo/A==",
+    "shasum": "7eeee7db3dbea91bd3e81ff486a057ab881aeaeb",
+    "tarball": "https://registry.npmjs.org/bitmovin-player-ui/-/bitmovin-player-ui-2.7.1.tgz"
+  },
+  "gitHead": "efddf95b5d6fcd0cc0655cacd9ad08fb29a67398",
+  "homepage": "https://github.com/bitmovin/bitmovin-player-ui#readme",
+  "license": "LGPL-3.0",
+  "main": "dist/js/framework/main.js",
+  "maintainers": [
+    {
+      "name": "bitadmin",
+      "email": "admin@bitmovin.com"
+    }
+  ],
+  "name": "bitmovin-player-ui",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitmovin/bitmovin-player-ui.git"
+  },
+  "scripts": {
+    "prepublish": "gulp npm-prepare",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.7.1"
+}
